@@ -21,25 +21,18 @@
 
 ---
 
-## 📈 GitHub Stats
-![Sharda's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
 
 ## 📂 Featured Projects
-🔹 [Payment Validation Service](https://github.com/YOUR_USERNAME/payment-validation-service)  
+🔹 [Payment Validation Service](https://github.com/shardasihore/payment-validation-service)  
 Spring Boot + Hibernate + Maven project for validating payment requests.  
 
-🔹 [Officer Highlights Portal](https://github.com/YOUR_USERNAME/officer-highlights)  
-JSP + Spring Boot project with admin/user login and daily orders section.  
+
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/sharda-sihore-6b7666241))  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shardasihore7@gmail.com)  
 
 ---
 ⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
